@@ -1,3 +1,2 @@
 <?php
-    define('INCLUDE_PATH', 'http://localhost/bateponto/');
-?>
+    define('INCLUDE_PATH', 'http://localhost/site/');
